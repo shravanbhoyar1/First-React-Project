@@ -1,0 +1,24 @@
+
+.navbar
+{
+    background-color: black;
+    padding: 8px;
+    margin-top: -20px;
+    margin-left: -20px;
+}
+.nav-brand
+{
+   display: inline-block;
+   color: aliceblue;
+   margin-left: 10px;
+   margin-right: 80px;
+
+}
+.nav-menu
+{
+    display: inline-block;
+    color:aliceblue;
+    margin: 0px 20px;
+    font-size: 23px;
+
+}
